@@ -1,1 +1,1 @@
-This is an introduction for c programming
+This README is about memory location
